@@ -57,7 +57,7 @@ const Navbar = () => {
   return (
     <header 
       className={`fixed top-0 w-full z-50 transition-all duration-300 ${
-        scrolled || isOpen ? 'bg-jewelry-dark shadow-md' : 'bg-jewelry-dark'
+        scrolled || isOpen ? 'bg-jewelry-dark shadow-md' : 'bg-transperent'
       }`}
     >
       <div className="container-custom py-4">
