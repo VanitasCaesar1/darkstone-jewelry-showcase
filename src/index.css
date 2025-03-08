@@ -39,10 +39,12 @@
 
   * {
     @apply border-border scroll-smooth;
+    font-family:  Chillax-Regular
   }
 
   body {
     @apply bg-jewelry-dark text-jewelry-light antialiased;
+    font-family:  Chillax-Regular
   }
 }
 

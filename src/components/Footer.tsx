@@ -72,22 +72,22 @@ const Footer = () => {
             <ul className="space-y-4">
               <li className="flex items-start">
                 <MapPin size={18} className="mt-1 mr-3 text-jewelry-gold flex-shrink-0" />
-                <span className="text-jewelry-light/70">123 Artisan Way, Crafton, CA 90210</span>
+                <span className="text-jewelry-light/70">100 Kakinada </span>
               </li>
               <li className="flex items-center">
                 <Phone size={18} className="mr-3 text-jewelry-gold flex-shrink-0" />
-                <span className="text-jewelry-light/70">+1 (555) 123-4567</span>
+                <span className="text-jewelry-light/70">+91 9999 9999 99</span>
               </li>
               <li className="flex items-center">
                 <Mail size={18} className="mr-3 text-jewelry-gold flex-shrink-0" />
-                <span className="text-jewelry-light/70">info@luxcraft.com</span>
+                <span className="text-jewelry-light/70">info@Sitara.com</span>
               </li>
             </ul>
           </div>
         </div>
         
         <div className="border-t border-white/10 mt-12 pt-8 text-center text-sm text-jewelry-light/60">
-          <p>© {new Date().getFullYear()} LuxCraft. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} Sitara. All rights reserved.</p>
         </div>
       </div>
     </footer>
